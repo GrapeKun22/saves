@@ -1,0 +1,161 @@
+{
+  "teamNameChanged": {
+    "__type": "bool",
+    "value": true
+  },
+  "teamName": {
+    "__type": "string",
+    "value": "VANILLA"
+  },
+  "dateAndTime": {
+    "__type": "string",
+    "value": "2026-05-11"
+  },
+  "timePlayed": {
+    "__type": "float",
+    "value": 11993.9307
+  },
+  "playerNames": {
+    "__type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+    "value": {
+      "76561198948615167": "Blueberry22",
+      "76561198201220887": "Nero\u2122"
+    }
+  },
+  "dictionaryOfDictionaries": {
+    "__type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+    "value": {
+      "item": {
+        "Item Valuable Tracker/1": 50,
+        "Item Drone Torque/1": 7,
+        "Item Phase Bridge/1": 35,
+        "Item Extraction Tracker/1": 10,
+        "Item Drone Indestructible/1": 6,
+        "Item Rubber Duck/1": 37,
+        "Item Orb Zero Gravity/1": 34,
+        "Item Drone Battery/1": 4,
+        "Item Drone Feather/1": 5,
+        "Item Upgrade Player Sprint Speed/1": 51,
+        "Item Gun Handgun/1": 16,
+        "Item Upgrade Player Grab Strength/1": 49,
+        "Item Upgrade Player Energy/1": 46,
+        "Item Melee Sledge Hammer/1": 29,
+        "Item Cart Medium/2": 2,
+        "Item Health Pack Large/1": 22,
+        "Item Cart Medium/1": 2,
+        "Item Gun Shotgun/1": 19,
+        "Item Upgrade Player Grab Strength/2": 49,
+        "Item Health Pack Large/2": 22,
+        "Item Upgrade Player Grab Range/1": 48,
+        "Item Upgrade Player Grab Range/2": 48,
+        "Item Health Pack Medium/1": 23,
+        "Item Health Pack Medium/2": 23
+      },
+      "itemBatteryUpgrades": {},
+      "itemsPurchased": {
+        "Item Power Crystal": 5,
+        "Item Cart Medium": 2,
+        "Item Drone Battery": 1,
+        "Item Drone Feather": 1,
+        "Item Drone Indestructible": 1,
+        "Item Upgrade Player Grab Strength": 1,
+        "Item Gun Handgun": 1,
+        "Item Health Pack Large": 2,
+        "Item Melee Sledge Hammer": 1,
+        "Item Gun Shotgun": 1,
+        "Item Upgrade Player Grab Range": 2,
+        "Item Health Pack Medium": 2
+      },
+      "itemsPurchasedTotal": {
+        "Item Power Crystal": 7,
+        "Item Cart Medium": 2,
+        "Item Drone Battery": 1,
+        "Item Drone Feather": 1,
+        "Item Drone Indestructible": 1,
+        "Item Grenade Duct Taped": 4,
+        "Item Grenade Explosive": 3,
+        "Item Grenade Human": 3,
+        "Item Gun Handgun": 1,
+        "Item Health Pack Large": 3,
+        "Item Health Pack Medium": 6,
+        "Item Melee Sledge Hammer": 1,
+        "Item Mine Explosive": 1,
+        "Item Upgrade Player Crouch Rest": 1,
+        "Item Upgrade Player Energy": 6,
+        "Item Upgrade Player Extra Jump": 1,
+        "Item Upgrade Player Grab Strength": 10,
+        "Item Upgrade Player Health": 4,
+        "Item Upgrade Player Sprint Speed": 2,
+        "Item Gun Shotgun": 1,
+        "Item Health Pack Small": 1,
+        "Item Upgrade Player Grab Range": 2
+      },
+      "itemStatBattery": {
+        "Item Drone Battery/1": 0,
+        "Item Valuable Tracker/1": 96,
+        "Item Drone Torque/1": 96,
+        "Item Phase Bridge/1": 96,
+        "Item Extraction Tracker/1": 96,
+        "Item Drone Indestructible/1": 66,
+        "Item Rubber Duck/1": 96,
+        "Item Orb Zero Gravity/1": 96,
+        "Item Drone Feather/1": 0,
+        "Item Gun Handgun/1": 0,
+        "Item Gun Shotgun/1": 0,
+        "Item Melee Sledge Hammer/1": 0
+      },
+      "itemsUpgradesPurchased": {
+        "Item Upgrade Player Crouch Rest": 1,
+        "Item Upgrade Player Energy": 6,
+        "Item Upgrade Player Extra Jump": 1,
+        "Item Upgrade Player Grab Strength": 10,
+        "Item Upgrade Player Health": 4,
+        "Item Upgrade Player Sprint Speed": 2,
+        "Item Upgrade Player Grab Range": 2
+      },
+      "playerHasCrown": {},
+      "playerHealth": {
+        "76561198948615167": 41,
+        "76561198201220887": 41
+      },
+      "playerUpgradeCrouchRest": {
+        "76561198948615167": 1
+      },
+      "playerUpgradeDeathHeadBattery": {},
+      "playerUpgradeExtraJump": {
+        "76561198948615167": 1
+      },
+      "playerUpgradeHealth": {
+        "76561198948615167": 4
+      },
+      "playerUpgradeLaunch": {},
+      "playerUpgradeMapPlayerCount": {},
+      "playerUpgradeRange": {},
+      "playerUpgradeSpeed": {
+        "76561198948615167": 2
+      },
+      "playerUpgradeStamina": {
+        "76561198948615167": 6
+      },
+      "playerUpgradeStrength": {
+        "76561198948615167": 9
+      },
+      "playerUpgradeThrow": {},
+      "playerUpgradeTumbleClimb": {},
+      "playerUpgradeTumbleWings": {},
+      "runStats": {
+        "level": 8,
+        "currency": 16,
+        "lives": 3,
+        "chargingStationCharge": 0,
+        "chargingStationChargeTotal": 50,
+        "totalHaul": 731,
+        "save level": 2
+      }
+    }
+  },
+  "saveVersion": {
+    "__type": "int",
+    "value": 1
+  }
+}
